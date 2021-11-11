@@ -1,0 +1,3 @@
+Ejercicio basado en la BBDD realizada en el primer año por Hermanos Machado.
+Realizado con un servidor Apache y Mysql.
+Retocado el fichero config.inc.php en xampp, para poder retocar los datos del usuario y establecer una contraseña específica.
